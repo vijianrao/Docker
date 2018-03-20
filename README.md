@@ -4,7 +4,7 @@
 
 1. Make file etc/nginx/conf.d/client_max_body_size.conf with this content:
 
- client_max_body_size 16m;
+ client_max_body_size 64m;
 
 2.Then run following command in terminal
 
